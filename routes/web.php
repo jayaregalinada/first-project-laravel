@@ -16,3 +16,9 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::resource('post', 'PostController');
 
 Route::get('post/{post}/delete', ['as' => 'post.delete', 'uses' => 'PostController@delete']);
+
+Route::get('logout', function() {
+	return 'Logged out';
+
+
+});

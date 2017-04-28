@@ -22,7 +22,7 @@ class UsersTableSeeder extends Seeder
                 'id' => 1,
                 'name' => 'Jay Are',
                 'email' => 'jayaregalinada@gmail.com',
-                'password' => '$2y$10$wPi31jzV5TM8tVqk21GPceV5qOQ6DZlAtWBgAIPMwvAb9rYemb4nO',
+                'password' => '$2y$10$HzDlSZhpIBwsP0DRvFNaUeXM7lEwkwYKxoNm/yuQ5z/wewzGLGv6e',
                 'remember_token' => NULL,
                 'created_at' => '2017-04-28 02:24:34',
                 'updated_at' => '2017-04-28 02:24:34',
